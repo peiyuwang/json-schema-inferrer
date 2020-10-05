@@ -167,9 +167,9 @@
 
   <distributionManagement>
     <repository>
-      <id>bintray-saasquatch-java-libs</id>
-      <name>saasquatch-java-libs</name>
-      <url>https://api.bintray.com/maven/saasquatch/java-libs/json-schema-inferrer/;publish=1</url>
+        <id>central</id>
+        <name>artifactory-0-releases</name>
+        <url></url>
     </repository>
   </distributionManagement>
 
